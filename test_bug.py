@@ -1,4 +1,4 @@
-from monomepi import Monome, PressListener, Button, ButtonHandler
+from monomepi128 import Monome, PressListener, Button, ButtonHandler
 from time import sleep
 
 

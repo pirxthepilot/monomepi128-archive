@@ -1,6 +1,6 @@
 # monomepi128
 
-**This is a copy of the original monomepi128 repo**
+**This is a copy of the original monomepi128 repo and is no longer maintained**
 
 Messing around with with python, monome, raspberry pi, arduino etc.
 
