@@ -1,6 +1,6 @@
 from twitter import Tweets, TwitterThread
 from ledscroll import LedScroller
-from monomepi import PressListener, Button, ButtonHandler
+from monomepi128 import PressListener, Button, ButtonHandler
 from time import sleep
 import threading
 
