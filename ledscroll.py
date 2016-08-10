@@ -108,7 +108,6 @@ class LedScroller(Monome):
             return True
         else:
             return False
-            
 
 
 def bitlify(bitvalue):
@@ -146,4 +145,3 @@ if __name__=="__main__":
         Scroller.flush_all_msgs()
     Scroller.call_exit()
     Scroller.close_serial()
-    

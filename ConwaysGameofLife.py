@@ -54,15 +54,15 @@ class Organism:
         else:
             fate = 'dead'
         return fate
-        
+
 
 def gameOfLife(instance):
-    
+
     led_buffer = [0 for i in range(64)]
     exit_invoked = False
-    
+
     while not exit_invoked:
-        
+
         print 'Begin!'
         while True:
             if instance.read_keys():
@@ -102,7 +102,7 @@ def gameOfLife(instance):
                 break
             #print hold
             instance.reset_keyin()
-        
+
 
 
 joon = m.Monome('COM6', 115200)
