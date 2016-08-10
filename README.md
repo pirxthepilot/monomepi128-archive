@@ -1,5 +1,7 @@
 # monomepi128
 
+**This is a copy of the original monomepi128 repo**
+
 Messing around with with python, monome, raspberry pi, arduino etc.
 
 This is how I learned, and keep on learning, Python and other programming shit. All libraries and progams here were built from scratch, hence the messy and unoptimized code. (Good luck reading this.)
